@@ -1,10 +1,12 @@
 <img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
-# AirBnB Clone: Phase # 4 Web Framework
+# AirBnB Clone: Phase # 4/6 Web Framework/Web dynamic
 
 ## Synopsis
 
 > This stage of the project focuses on the construction of a web framework using Flask, and my personal work may be found in the `web_flask` file. A dynamic templates are implemented using Jinja.
+
+> Work in the `web_dynamic` folder centers on adding dynamism to the page with jQuery.
 
 
 ## Description
