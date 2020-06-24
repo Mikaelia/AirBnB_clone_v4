@@ -1,4 +1,3 @@
-<img src="https://github.com/jarehec/AirBnB_clone_v3/blob/master/dev/HBTN-hbnb-Final.png" width="160" height=auto />
 
 # AirBnB Clone: Phase # 4/6 Web Framework/Web dynamic
 
@@ -119,7 +118,7 @@ setupfiles along with a brief explanation:
   the other function to deploy the compressed web static files. Command must
   be executed from the `AirBnB_clone` root directory.
 
-  - Usage: `$ fab -f 3-deploy_web_static.py deploy -i ~/.ssh/holberton -u ubuntu`
+  - Usage: `$ fab -f 3-deploy_web_static.py deploy -i ~/.ssh/holbert -u ubuntu`
 
 ## Testing
 
