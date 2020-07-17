@@ -1,7 +1,5 @@
 
-# AirBnB Clone: Phase # 4/6 Web Framework/Web dynamic
-
-![screenschot](/screenshots/screenshot1.png)
+# AirBnB Clone: Phase # 4
 
 ## Synopsis
 
